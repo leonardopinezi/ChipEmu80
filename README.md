@@ -131,9 +131,3 @@ Explanation:
 - Only the listed opcodes are supported.
 - Video memory is printed to the console every 20 ticks.
 - F register is not used in this version.
-
----
-
-## License
-MIT
-

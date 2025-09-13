@@ -26,7 +26,7 @@ The repository has two main branches:
 2. **Emulator** – Contains the emulator itself and detailed documentation of opcodes and usage examples.  
 
 To access the emulator and full documentation:  
-[➡ Go to the Emulator Manual](https://github.com/leonardopinezi/ChipEmu80/MANUAL.md)  
+[➡ Go to the Emulator Manual]([https://github.com/leonardopinezi/ChipEmu80/MANUAL.md](https://github.com/leonardopinezi/ChipEmu80/blob/main/MANUAL.md))  
 
 ---
 
